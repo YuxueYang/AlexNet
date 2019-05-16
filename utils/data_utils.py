@@ -7,7 +7,6 @@ class DataLoader(object):
 
     def some_method(self):
         print(self.some_value)
-        gfgfgf
 
 
 
